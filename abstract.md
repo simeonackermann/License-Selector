@@ -2,14 +2,14 @@
 
 ## Inhalt
 
-- [Aufgaben](#Aufgaben)
-- [Einleitung](#Einleitung)
-- [Existierende Lösungen](#Existierende&nbsp;Lösungen)
-- [Grundlagen: Lizenzen](#Grundlagen:&nbsp;Lizenzen)
+- [Aufgaben](#aufgaben)
+- [Einleitung](#einleitung)
+- [Existierende Lösungen](#existierende-lösungen)
+- [Grundlagen: Lizenzen](#grundlagen-lizenzen)
     - ccREL
     - ODRL
     - DALIcc
-- [Aufbau der Applikation](#Aufbau&nbsp;der&nbsp;Applikation)
+- [Aufbau der Applikation](#aufbau-der-applikation)
     - Mockups
     - Lizenz-Selektor
     - Konfliktresolution
